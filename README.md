@@ -19,20 +19,41 @@ PowerBI
 
 ## Analysis 
 
- Total Sales:The total revenue generated is $3 million.
-A total of 471,000 units were sold across various product categories.
-Top-Selling Categories:
+**1. Total Sales:**
 
-Flower/Leaf Vegetables generated the highest sales at $1.08 million.
-Other significant categories include Capsicum ($755K), Edible Mushrooms ($620K), and Cabbage ($376K).
-Loss Rates:
+* The total revenue generated is **\$3 million**.
+* A total of **471,000 units** were sold across various product categories.
 
-The highest loss rate is in the Flower/Leaf Vegetables category at 41.83%.
-Other categories with notable loss rates include Edible Mushrooms (23.42%) and Cabbage (15.69%).
-Sales and Loss Trends Over Time:Sales and loss rates vary by month, indicating potential seasonality or operational issues.
-Some months, like August and October, show higher loss rates, suggesting a need for further investigation into why these periods are more problematic.
-Item-Level Analysis :Specific items like Wuhu Green and Broccoli are leading in sales, but there may also be significant returns or losses associated with certain products
+**2. Top-Selling Categories:**
 
+* **Flower/Leaf Vegetables** generated the highest sales at **\$1.08 million**.
+* Other significant categories include:
+
+  * **Capsicum** – \$755K
+  * **Edible Mushrooms** – \$620K
+  * **Cabbage** – \$376K
+
+**3. Loss Rates:**
+
+* The highest loss rate was observed in **Flower/Leaf Vegetables** at **41.83%**.
+* Other categories with notable loss rates:
+
+  * **Edible Mushrooms** – 23.42%
+  * **Cabbage** – 15.69%
+* These rates suggest high waste or return issues within otherwise profitable categories.
+
+**4. Sales and Loss Trends Over Time:**
+
+* Sales and loss rates vary by month, indicating possible **seasonality** or **operational inefficiencies**.
+* Months like **August** and **October** show elevated loss rates, requiring further investigation into storage, demand forecasting, or distribution processes during those periods.
+
+**5. Item-Level Analysis:**
+
+* Specific items such as **Wuhu Green** and **Broccoli** are among the top in sales volume.
+* However, their popularity might come with a trade-off in terms of **high return rates or spoilage**, which should be monitored more closely.
+
+
+ 
 
  ## Insights
 High Sales, High Loss: While some categories like "Flower/Leaf Vegetables" have strong sales, their high loss rates could be eroding profitability.
