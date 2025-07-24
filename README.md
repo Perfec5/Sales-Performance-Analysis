@@ -19,21 +19,29 @@ PowerBI
 
 ## Analysis 
 
- Total Sales:The total revenue generated is $3 million.
-A total of 471,000 units were sold across various product categories.
-Top-Selling Categories:
+Strong Overall Growth
 
-Flower/Leaf Vegetables generated the highest sales at $1.08 million.
-Other significant categories include Capsicum ($755K), Edible Mushrooms ($620K), and Cabbage ($376K).
-Loss Rates:
+Sales value increased by 68.8%, and quantity sold rose by 52.1%.
 
-The highest loss rate is in the Flower/Leaf Vegetables category at 41.83%.
-Other categories with notable loss rates include Edible Mushrooms (23.42%) and Cabbage (15.69%).
-Sales and Loss Trends Over Time:Sales and loss rates vary by month, indicating potential seasonality or operational issues.
-Some months, like August and October, show higher loss rates, suggesting a need for further investigation into why these periods are more problematic.
-Item-Level Analysis :Specific items like Wuhu Green and Broccoli are leading in sales, but there may also be significant returns or losses associated with certain products
+This reflects a clear increase in customer demand and overall market reach.
+
+Top-Selling Categories Come with High Risk
+
+Flower/Leaf Vegetables generated the highest revenue ($1.08M) but also recorded the highest loss rate (41.83%).
+
+Edible Mushrooms followed with high sales ($620K) and a 23.42% loss rate.
+
+This suggests that high revenue alone doesn’t guarantee profitability.
+
+Losses Are Seasonal
+
+August and October recorded the highest product loss volumes.
+
+This pattern may be linked to storage challenges or overstocking during warmer months.
 
 
+
+ 
  ## Insights
 High Sales, High Loss: While some categories like "Flower/Leaf Vegetables" have strong sales, their high loss rates could be eroding profitability.
 Monthly Variations: The fluctuation in sales and loss rates across different months suggests the need for tailored inventory and sales strategies to match demand and minimize waste.
@@ -43,6 +51,8 @@ Monthly Variations: The fluctuation in sales and loss rates across different mon
 Reduce Loss Rates: Focus on categories with high loss rates to improve profitability.
 Inventory Optimization: Adjust inventory based on sales trends to align with demand.
 Targeted Promotions: Boost sales during low-performing months through targeted marketin
+Bundle high-risk, high-sales items with fast-moving ones to reduce inventory loss and increase turnover
+
 # DASHBOARD 
 ![Screenshot 2024-08-14 023158](https://github.com/user-attachments/assets/d8b0e6fa-0c49-48dd-9cd4-b1bcd6e602fa)
 
